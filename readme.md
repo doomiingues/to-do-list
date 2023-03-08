@@ -1,0 +1,1 @@
+A ideia do projeto é fazer uma to-do list simples e ir aprimorando com tempo
