@@ -1,0 +1,14 @@
+:root {
+    --var-button-color: #66cefa;
+    --var-remove-color: #bd2020;
+    --var-complete-task-color: #42d142;
+}
+body {
+     align-items: center;
+     display: flex;
+     justify-content: center;
+}
+.content{
+    padding: 10px;
+    margin: 100px 100px;
+}
